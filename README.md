@@ -1,4 +1,4 @@
-# 👥 AI People Counting System (YOLOv8 + Colab)
+# 👥 YOLO-Count-Intelligent-Human-Detection
 This project is an AI-powered people counting system that runs on **Google Colab** using **YOLOv8** and **OpenCV**. It detects and counts the number of people in a video frame-by-frame using object detection.
 
 # 🎯 Features
